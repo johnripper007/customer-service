@@ -1,0 +1,126 @@
+.bg-logo{
+    background-color: #f1f1f1;
+    height: 80px;
+    font-family: ArialMT,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 18px;
+    margin-bottom: 10px;
+}
+
+.message-info-div {
+    border-color: #9ecde0;
+    background-color: #edf3f9;
+    margin-bottom: 10px;
+    position: relative;
+    border: 1px solid #ccc;
+}
+
+.message-icon {
+    width: 26px;
+    height: 26px;
+    position: absolute;
+    top: 18px;
+    left: 10px;
+}
+
+.message-icon i{ 
+    color: #037DAE;
+    font-size: 30px;
+}
+
+
+.message-info{
+    margin: 14px 10px 14px 45px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.1em;
+    line-height: 23px;
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: center;
+}
+.card {
+    border-radius: 10px;
+    box-shadow: 0px 4px 5px rgba(0,0,0,0.15), 0px 1px 10px rgba(0,0,0,0.12), 0 2px 4px -1px rgba(0,0,0,0.3);
+    -webkit-box-shadow: 0px 4px 5px rgba(0,0,0,0.15), 0px 1px 10px rgba(0,0,0,0.12), 0 2px 4px -1px rgba(0,0,0,0.3);
+    -moz-box-shadow: 2px 4px 5px rgba(0,0,0,0.15), 0px 1px 10px rgba(0,0,0,0.12), 0 2px 4px -1px rgba(0,0,0,0.3);
+    padding: 0;
+    height: 100%;
+}
+img.card-img-top {
+    width: 100%;
+    border-radius: 10px 10px 0 0;
+}
+.card-body {
+    padding: 24px;
+}
+
+.bg-important {
+    background-color: #f1f1f1;
+    padding: 1rem;
+}
+.mt-4 {
+    margin-top: 3em;
+}
+.mb-4 {
+    margin-bottom: 3em;
+}
+h5.card-title {
+    font-weight: 600;
+}
+
+.box-products{
+    border: 1px solid #222 !important;
+    padding: 5px 0 !important;
+    font-size: 12px !important;
+    font-weight: 700 !important;
+    color: #222 !important;
+    text-align: center !important;
+    width: auto !important;
+}
+
+footer p {
+    margin: 15px 0;
+    font-size: 11px;
+    color: #343434;
+}
+
+.banner {
+    background-image: url("img/Login_Background.jpg");
+    min-height: 580px;
+    padding: 25px 0 0;
+    background-position: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    margin: 0 15px 60px;
+}
+
+#loginHeadline {
+    font-size: 27px;
+    /* font-family: CharlesModernLight,CharlesModern-Light,Helvetica Neue,Helvetica,Arial,sans-serif; */
+    color: #111;
+    margin-bottom: 20px;
+    text-align: center;
+    font-weight: 300;
+}
+
+.btn-login {
+    background: #005f83 100%;
+    border: 1px solid #005f83;
+    font-size: 17px;
+    color: #fff;
+    text-align: center;
+    cursor: pointer;
+    width: auto;
+    padding: 0 40px;
+}
+
+.bg-login {
+    border-top: 1px solid #ddd;
+    background-color: #f1f1f1;
+    margin: -16px -24px;
+    border-radius: 0 0 10px 10px;
+    padding: 11px;
+}
